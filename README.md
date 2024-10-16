@@ -5,6 +5,7 @@
 ### __외국인 관광객들도 한국인과 비슷한 배달비로,__
 ### _국내 3대 배달앱을 사용할 수 있게 하는 결제 중개 앱 dilight 개발 제안_
 
+<img src="https://github.com/user-attachments/assets/38e6f043-7056-4444-8c2b-9120361a6553" alt="경매화면" width="300" height="500">
 
 
 > ### 목표
