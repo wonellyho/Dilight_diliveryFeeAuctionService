@@ -13,3 +13,5 @@ case $mind in
         echo "yes or no로 입력해 주세요."
         ;;
 esac
+
+exit 0

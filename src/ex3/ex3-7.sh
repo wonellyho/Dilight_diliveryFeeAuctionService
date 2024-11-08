@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 file_name=$1
 if [ ! -d $file_name ]; then
     mkdir $file_name

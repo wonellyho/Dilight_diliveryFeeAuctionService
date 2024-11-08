@@ -1,11 +1,10 @@
 #!/bin/sh
 
-# 두 숫자와 연산자를 입력받습니다
 num1=$1
 operator=$2
 num2=$3
 
-# 계산 수행
+
 if [ "$operator" = "+" ]; then
   result=$((num1 + num2))
 elif [ "$operator" = "-" ]; then
@@ -16,3 +15,5 @@ else
 fi
 
 echo $result
+
+exit 0

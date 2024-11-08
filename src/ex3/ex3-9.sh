@@ -2,11 +2,11 @@
 
 
 if [ $# -ne 1 ]; then
-    echo "사용법: ./ex3-9.sh <이름>"
+    echo "사용법: ./ex3-9.sh <검색어>"
     exit 1
 fi
 
-name=$1
+search_term=$1
 
 
 if [ ! -f DB.txt ]; then
@@ -15,10 +15,12 @@ if [ ! -f DB.txt ]; then
 fi
 
 
-result=$(grep -i "^$name" DB.txt)
+result=$(grep -i "$search_term" DB.txt)
 
 if [ -z "$result" ]; then
-    echo "해당 이름의 팀원 정보가 없습니다."
+    echo "해당 검색어와 일치하는 정보가 없습니다."
 else
+
     echo "$result"
 fi
+exit 0
