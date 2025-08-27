@@ -7,9 +7,15 @@
 ### _국내 3대 배달앱을 사용할 수 있게 하는 결제 중개 앱 dilight 개발 제안_</br></br>
 <hr>
 
-<img src="https://github.com/user-attachments/assets/7ba0d45e-a516-4c77-8732-fc8cb2519e24" alt="앱시작화면" width="300" height="500">
-<img src="https://github.com/user-attachments/assets/38e6f043-7056-4444-8c2b-9120361a6553" alt="경매화면" width="300" height="500">
-<img src="https://github.com/user-attachments/assets/9ea0258a-9b2c-461b-8440-9f81273e2474" alt="시스템개요도" width="500" height="300">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ba0d45e-a516-4c77-8732-fc8cb2519e24" alt="앱시작화면" width="45%" />
+  <img src="https://github.com/user-attachments/assets/38e6f043-7056-4444-8c2b-9120361a6553" alt="경매화면" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ea0258a-9b2c-461b-8440-9f81273e2474" alt="시스템개요도" width="70%" />
+</p>
+
 </br>
 * 위의 이미지들은 각각 앱 시작 화면, 경매 화면, 시스템 개요도입니다.
 
